@@ -1,7 +1,7 @@
 {
-    "name": "felixkiss/uniquewith-validator",
+    "name": "eastree/uniquewith-validator",
     "description": "Custom Laravel Validator for combined unique indexes",
-    "keywords": ["laravel"],
+    "keywords": ["laravel", "unique with", "validator"],
     "homepage": "https://github.com/felixkiss/uniquewith-validator",
     "license": "MIT",
     "authors": [
